@@ -1,0 +1,10 @@
+[
+    {
+        "smtp_server": "smtp_server",
+        "port": 587,
+        "user": "user",
+        "password": "password",
+        "daily_limit": 200,
+        "timeout": 20
+    }
+]
